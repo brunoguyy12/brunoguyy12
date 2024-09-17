@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 My Skills: Computer Engineer with a passion for web, app, and software development.<br><br>🛠️ Currently Working On:<br>• Next.js projects<br>• React Native app development<br><br>🌱 Currently Learning:<br>• UI/UX with Figma<br>• Advanced React Native concepts<br>• Cloud computing platforms (AWS, GCP)<br><br>💬 Ask Me About:<br>• Web development best practices<br>• App architecture and design<br>• Software engineering methodologies<br><br>⚡ Fun Fact:<br>• I love exploring new technologies and gadgets!
+🚀 My Skills: Computer Engineer with a passion for web, app, and software development.<br><br>🛠️ Currently Working On:<br>• Next.js projects<br>• React Native app development<br><br>🌱 Currently Learning:<br>• UI/UX with Figma<br>• Advanced React Native concepts<br>• Cloud computing platforms (AWS, GCP)<br><br>⚡ Fun Fact:<br>• You can't beat me in Typing😁 !!
 
 
 ## 🌐 Socials:
